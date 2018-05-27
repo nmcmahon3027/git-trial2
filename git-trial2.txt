@@ -1,1 +1,2 @@
-This is plain text. No change yet.
+This is plain text. 
+Just deleted some text and added some more. Second commit
